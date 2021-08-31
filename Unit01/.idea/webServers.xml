@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d50ba8f7-77ac-456f-b7ce-248a9350fd3d" name="monitor-java">
+        <fileTransfer accessType="SFTP" host="10.151.100.67" port="22" sshConfigId="84e0d1b3-e7a9-419e-9478-5cb890880164" sshConfig="xiaochao@10.151.100.67:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
